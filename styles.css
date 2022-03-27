@@ -9,7 +9,7 @@ body {
 }
 
 img {
-  object-fit: center;
+  object-fit: fill;
   width: 1680px;
   height: 690px;
 }
